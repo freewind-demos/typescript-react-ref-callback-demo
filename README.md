@@ -1,4 +1,4 @@
-JavaScript React Create Ref Demo
+JavaScript React Ref Callback Demo
 ================================
 
 在当前的React中，使用字符串形式的`ref`已经不再推荐使用，替代品是传入一个function，
